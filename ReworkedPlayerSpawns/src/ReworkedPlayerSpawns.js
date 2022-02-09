@@ -67,15 +67,15 @@ class ReworkedPlayerSpawns
 		
 		// shoreline
 		JustNUCore.createSpawnPoint("Tunnel",			  350.0, -58.2,  325.2, 250, "shoreline")
-		JustNUCore.createSpawnPoint("Pier", 			 -323.0, -63.1,  524.7, 180, "shoreline")
+		JustNUCore.createSpawnPoint("Pier", 			 -323.0, -63.1,  524.7, 225, "shoreline")
 		JustNUCore.createSpawnPoint("RoadToCustoms", 	 -855.9, -41.1,   12.3,   0, "shoreline")
 		JustNUCore.createSpawnPoint("Train1", 			-1026.5, -59.2,  308.5,  20, "shoreline")
-		JustNUCore.createSpawnPoint("Train2", 			-1034.2, -59.1,  311.5,   0, "shoreline")
+		JustNUCore.createSpawnPoint("Train2", 			-1034.2, -59.1,  311.5,  20, "shoreline")
 		JustNUCore.createSpawnPoint("OuterWall1", 		 -508.5,  -8.3, -394.0,   0, "shoreline")
 		JustNUCore.createSpawnPoint("OuterWall2", 		   21.5, -15.1, -383.1,   0, "shoreline")
 		JustNUCore.createSpawnPoint("OuterWall3", 		   26.0, -17.2, -380.7,   0, "shoreline")
-		JustNUCore.createSpawnPoint("OuterWall4", 		  463.3, -53.0,  200.3,   0, "shoreline")
-		//JustNUCore.createSpawnPoint("RockPassage", 		 -195.2, -10.5, -342.6,   0, "shoreline")
+		JustNUCore.createSpawnPoint("OuterWall4", 		  463.3, -53.0,  200.3, 200, "shoreline")
+		JustNUCore.createSpawnPoint("RockPassage", 		 -195.2, -10.5, -342.6,   0, "shoreline")
 		JustNUCore.createSpawnPoint("Hill", 			  451.8, -40.7,  257.2, 180, "shoreline")
     }
 }
